@@ -1,0 +1,15 @@
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\bin\Debug\net6.0\Katas.exe
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\bin\Debug\net6.0\Katas.deps.json
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\bin\Debug\net6.0\Katas.runtimeconfig.json
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\bin\Debug\net6.0\Katas.dll
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\bin\Debug\net6.0\Katas.pdb
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.csproj.AssemblyReference.cache
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.AssemblyInfoInputs.cache
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.AssemblyInfo.cs
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.csproj.CoreCompileInputs.cache
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.dll
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\refint\Katas.dll
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.pdb
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\Katas.genruntimeconfig.cache
+C:\Users\kodyh\source\repos\CMPT395_Assignment1-Kody\FizzBuzz\FizzBuzz\obj\Debug\net6.0\ref\Katas.dll
