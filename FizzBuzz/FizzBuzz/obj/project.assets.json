@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Katas.csproj",
-      "projectName": "Katas",
-      "projectPath": "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Katas.csproj",
+      "projectUniqueName": "C:\\Users\\kodyh\\Source\\Repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Assignment1.csproj",
+      "projectName": "Assignment1",
+      "projectPath": "C:\\Users\\kodyh\\Source\\Repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\kodyh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\kodyh\\Source\\Repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kodyh\\AppData\\Roaming\\NuGet\\NuGet.Config",

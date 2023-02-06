@@ -974,14 +974,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Katas/1.0.0": {
+      "Assignment1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Katas.dll": {}
+          "bin/placeholder/Assignment1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Katas.dll": {}
+          "bin/placeholder/Assignment1.dll": {}
         }
       }
     }
@@ -3956,15 +3956,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Katas/1.0.0": {
+    "Assignment1/1.0.0": {
       "type": "project",
-      "path": "../FizzBuzz/Katas.csproj",
-      "msbuildProject": "../FizzBuzz/Katas.csproj"
+      "path": "../FizzBuzz/Assignment1.csproj",
+      "msbuildProject": "../FizzBuzz/Assignment1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Katas >= 1.0.0",
+      "Assignment1 >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
@@ -3999,8 +3999,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Katas.csproj": {
-              "projectPath": "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Katas.csproj"
+            "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Assignment1.csproj": {
+              "projectPath": "C:\\Users\\kodyh\\source\\repos\\CMPT395_Assignment1-Kody\\FizzBuzz\\FizzBuzz\\Assignment1.csproj"
             }
           }
         }

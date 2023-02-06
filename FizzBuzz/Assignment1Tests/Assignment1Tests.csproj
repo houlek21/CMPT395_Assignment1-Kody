@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FizzBuzz\Katas.csproj" />
+    <ProjectReference Include="..\FizzBuzz\Assignment1.csproj" />
   </ItemGroup>
 
 </Project>

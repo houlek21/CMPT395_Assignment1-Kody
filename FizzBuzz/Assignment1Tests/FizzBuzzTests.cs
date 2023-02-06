@@ -1,29 +1,81 @@
 using Assignment1;
-using System.Reflection.Metadata;
 
 namespace Assignment1Tests
 {
-    public class fizzBuzzTests
+    public class FizzBuzzTests
     {
-        private fizzBuzz _fizzBuzz { get; set; } = null;
+        private FizzBuzz _fizzBuzz;
+
         [SetUp]
         public void Setup()
         {
-            _fizzBuzz= new fizzBuzz();
+            _fizzBuzz = new FizzBuzz();
         }
 
-        // Test if the input in a number
+        /*
+         * Test if passVal() returns a string
+         * from a given number
+         */
         [Test]
-        public void Is_Input_Int()
+        public void fizzBuzz_Returns_String()
         {
-            // Assign
+            string num = "5";
 
-            // Act
+            var fizz = _fizzBuzz.fizzBuzz(num);
 
-            // Assert
+            Assert.True(fizz is string);
+        }
 
+        /*
+         * Test if a number is an integer
+         */
+        [TestCase("A")]
+        [TestCase("This is a string")]
+        public void FizzBuzz_Input_Is_Not_Integer(string num)
+        {
+            var fizz = _fizzBuzz.fizzBuzz(num);
 
-            Assert.Pass();
+            Assert.AreEqual("Input is not a number", fizz);
+        }
+
+        /*
+         * Test if a number is a multiple of 3
+         */
+        [TestCase("3")]
+        [TestCase("9")]
+        [TestCase("36")]
+        [TestCase("243")]
+        public void fizzBuzz_Is_Multiple_Of_3(string num)
+        {
+            var fizz = _fizzBuzz.fizzBuzz(num);
+
+            Assert.AreEqual("Fizz", fizz);
+        }
+
+        /*
+         * Test if a number is a multiple of 5
+         */
+        [TestCase("5")]
+        [TestCase("25")]
+        [TestCase("125")]
+        public void fizzBuzz_Is_Multiple_Of_5(string num)
+        {
+            var fizz = _fizzBuzz.fizzBuzz(num);
+
+            Assert.AreEqual("Buzz", fizz);
+        }
+
+        /*
+         * Test if a number is a multiple of 3 and 5
+         */
+        [TestCase("15")]
+        [TestCase("60")]
+        [TestCase("120")]
+        public void fizzBuzz_Is_Multiple_Of_5_and_3(string num)
+        {
+            var fizz = _fizzBuzz.fizzBuzz(num);
+
+            Assert.AreEqual("FizzBuzz", fizz);
         }
     }
 }
